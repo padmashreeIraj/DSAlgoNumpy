@@ -1,0 +1,491 @@
+12:07:53.173 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:07:53.192 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+12:07:53.200 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+12:07:53.210 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+12:07:53.215 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+12:07:53.219 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+12:07:53.223 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+12:07:53.233 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+12:07:53.249 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+12:07:53.255 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+12:07:53.274 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+12:07:53.279 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+12:07:53.286 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+12:07:53.296 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+12:07:53.308 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+12:07:53.312 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+12:07:53.320 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+12:07:53.323 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+12:07:56.691 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:07:56.991 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:07:57.010 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:07:57.012 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:07:57.014 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:07:57.036 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:08:00.595 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:08:00.894 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:08:00.909 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:00.910 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:08:00.912 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:00.930 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:08:04.442 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:08:04.697 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:08:04.713 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:04.716 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:08:04.720 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:04.740 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:08:08.257 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:08:08.510 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:08:08.530 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:08.532 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:08:08.535 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:08.557 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:08:12.307 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:08:12.549 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:08:12.561 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:12.563 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:08:12.568 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:12.585 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:08:16.104 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:08:16.371 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:08:16.393 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:16.394 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:08:16.397 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:16.416 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:08:19.847 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:08:20.128 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:08:20.140 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:20.141 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:08:20.143 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:20.161 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:08:23.820 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:08:24.088 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:08:24.102 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:24.103 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:08:24.105 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:24.121 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:23:38.822 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:23:38.996 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:23:39.126 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:23:39.128 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:23:39.130 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:23:39.269 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+12:23:39.271 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:23:39.272 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:23:39.272 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:23:39.272 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:23:39.274 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:23:39.284 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:23:39.285 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:23:39.288 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:23:39.289 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:23:39.290 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:23:39.290 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:23:39.291 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:23:39.292 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+12:23:39.336 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+12:23:39.336 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+12:23:39.385 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+12:23:39.389 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+12:23:39.394 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+12:23:39.396 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+12:23:39.400 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+12:23:39.401 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+12:23:39.403 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+12:23:39.405 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+12:23:39.407 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+12:23:39.409 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+12:23:39.412 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+12:23:39.414 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+12:23:39.415 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+12:23:39.418 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+12:23:39.421 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+12:23:39.429 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+12:23:39.444 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:23:39.445 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+12:23:39.449 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+12:23:39.453 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+12:23:39.458 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+12:23:39.460 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+12:23:39.462 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+12:23:39.468 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+12:23:39.474 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+12:23:39.477 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+12:23:39.488 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+12:23:39.490 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+12:23:39.493 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+12:23:39.498 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+12:23:39.503 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+12:23:39.505 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+12:23:39.508 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+12:23:39.510 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+12:23:41.920 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:23:42.113 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:23:42.130 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:23:42.131 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:23:42.132 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:23:42.147 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:23:44.568 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:23:44.772 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:23:44.785 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:23:44.786 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:23:44.787 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:23:44.801 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:23:47.419 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:23:47.605 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:23:47.620 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:23:47.621 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:23:47.623 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:23:47.637 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:23:50.409 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:23:50.621 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:23:50.635 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:23:50.637 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:23:50.638 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:23:50.650 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:23:53.560 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:23:53.759 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:23:53.770 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:23:53.771 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:23:53.774 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:23:53.784 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:23:56.605 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:23:56.796 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:23:56.808 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:23:56.809 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:23:56.810 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:23:56.820 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:24:00.251 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:24:00.467 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:24:00.476 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:24:00.477 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:24:00.479 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:24:00.489 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:24:03.182 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:24:03.365 [main] INFO  stepDefinitions.steps - Clicked on Register 
+12:24:03.377 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:24:03.378 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:24:03.379 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:24:03.389 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:11:05.965 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+13:11:06.146 [main] INFO  stepDefinitions.steps - Clicked on Login 
+13:11:06.212 [main] INFO  stepDefinitions.steps - Provided Username 
+13:12:48.719 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+13:12:48.901 [main] INFO  stepDefinitions.steps - Clicked on Login 
+13:12:48.963 [main] INFO  stepDefinitions.steps - Provided Username 
+13:18:49.930 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+13:18:50.113 [main] INFO  stepDefinitions.steps - Clicked on Login 
+13:18:50.182 [main] INFO  stepDefinitions.steps - Provided Username 
+13:18:50.243 [main] INFO  stepDefinitions.steps - Provided Password 
+13:18:50.555 [main] INFO  stepDefinitions.steps - Clicked on Login button
+13:18:52.837 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+13:18:53.010 [main] INFO  stepDefinitions.steps - Clicked on Login 
+13:18:53.068 [main] INFO  stepDefinitions.steps - Provided Username 
+13:18:53.134 [main] INFO  stepDefinitions.steps - Provided Password 
+13:18:53.470 [main] INFO  stepDefinitions.steps - Clicked on Login button
+13:20:17.765 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+13:20:17.942 [main] INFO  stepDefinitions.steps - Clicked on Login 
+13:20:18.017 [main] INFO  stepDefinitions.steps - Provided Username 
+13:20:18.081 [main] INFO  stepDefinitions.steps - Provided Password 
+13:20:18.419 [main] INFO  stepDefinitions.steps - Clicked on Login button
+13:20:20.674 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+13:20:20.841 [main] INFO  stepDefinitions.steps - Clicked on Login 
+13:20:20.903 [main] INFO  stepDefinitions.steps - Provided Username 
+13:20:20.965 [main] INFO  stepDefinitions.steps - Provided Password 
+13:20:21.270 [main] INFO  stepDefinitions.steps - Clicked on Login button
+13:20:37.545 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+13:20:37.739 [main] INFO  stepDefinitions.steps - Clicked on Login 
+13:20:37.805 [main] INFO  stepDefinitions.steps - Provided Username 
+13:20:37.869 [main] INFO  stepDefinitions.steps - Provided Password 
+13:20:38.215 [main] INFO  stepDefinitions.steps - Clicked on Login button
+13:20:40.490 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+13:20:40.662 [main] INFO  stepDefinitions.steps - Clicked on Login 
+13:20:40.729 [main] INFO  stepDefinitions.steps - Provided Username 
+13:20:40.794 [main] INFO  stepDefinitions.steps - Provided Password 
+13:20:41.095 [main] INFO  stepDefinitions.steps - Clicked on Login button
+15:35:49.169 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+15:35:49.376 [main] INFO  stepDefinitions.steps - Clicked on Login 
+15:35:49.459 [main] INFO  stepDefinitions.steps - Provided Username 
+15:35:49.529 [main] INFO  stepDefinitions.steps - Provided Password 
+15:35:49.830 [main] INFO  stepDefinitions.steps - Clicked on Login button
+15:35:52.210 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+15:35:52.398 [main] INFO  stepDefinitions.steps - Clicked on Login 
+15:35:52.487 [main] INFO  stepDefinitions.steps - Provided Username 
+15:35:52.565 [main] INFO  stepDefinitions.steps - Provided Password 
+15:35:52.914 [main] INFO  stepDefinitions.steps - Clicked on Login button
+15:50:38.121 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+15:50:38.330 [main] INFO  stepDefinitions.steps - Clicked on Login 
+15:50:38.402 [main] INFO  stepDefinitions.steps - Provided Username 
+15:50:38.466 [main] INFO  stepDefinitions.steps - Provided Password 
+15:50:38.786 [main] INFO  stepDefinitions.steps - Clicked on Login button
+15:50:41.119 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+15:50:41.311 [main] INFO  stepDefinitions.steps - Clicked on Login 
+15:50:41.389 [main] INFO  stepDefinitions.steps - Provided Username 
+15:50:41.464 [main] INFO  stepDefinitions.steps - Provided Password 
+15:50:41.765 [main] INFO  stepDefinitions.steps - Clicked on Login button
+15:52:41.826 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+15:52:42.041 [main] INFO  stepDefinitions.steps - Clicked on Login 
+15:52:42.133 [main] INFO  stepDefinitions.steps - Provided Username 
+15:52:42.214 [main] INFO  stepDefinitions.steps - Provided Password 
+15:52:42.515 [main] INFO  stepDefinitions.steps - Clicked on Login button
+15:52:44.788 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+15:52:44.989 [main] INFO  stepDefinitions.steps - Clicked on Login 
+15:52:45.066 [main] INFO  stepDefinitions.steps - Provided Username 
+15:52:45.130 [main] INFO  stepDefinitions.steps - Provided Password 
+15:52:45.359 [main] INFO  stepDefinitions.steps - Clicked on Login button
+15:53:45.025 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+15:53:45.250 [main] INFO  stepDefinitions.steps - Clicked on Login 
+15:53:45.335 [main] INFO  stepDefinitions.steps - Provided Username 
+15:53:45.404 [main] INFO  stepDefinitions.steps - Provided Password 
+15:53:45.751 [main] INFO  stepDefinitions.steps - Clicked on Login button
+15:53:48.077 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+15:53:48.271 [main] INFO  stepDefinitions.steps - Clicked on Login 
+15:53:48.358 [main] INFO  stepDefinitions.steps - Provided Username 
+15:53:48.451 [main] INFO  stepDefinitions.steps - Provided Password 
+15:53:48.700 [main] INFO  stepDefinitions.steps - Clicked on Login button
+16:11:35.955 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:11:36.170 [main] INFO  stepDefinitions.steps - Clicked on Login 
+16:11:36.268 [main] INFO  stepDefinitions.steps - Provided Username 
+16:11:36.327 [main] INFO  stepDefinitions.steps - Provided Password 
+16:12:56.216 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:12:56.555 [main] INFO  stepDefinitions.steps - Clicked on Register 
+16:12:57.051 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:12:57.105 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:12:57.189 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:12:58.089 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:13:02.575 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:13:02.785 [main] INFO  stepDefinitions.steps - Clicked on Register 
+16:13:02.849 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:13:02.852 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:13:02.860 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:13:03.033 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:21:03.027 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:21:03.237 [main] INFO  stepDefinitions.steps - Clicked on Login 
+16:21:03.322 [main] INFO  stepDefinitions.steps - Provided Username 
+16:21:03.386 [main] INFO  stepDefinitions.steps - Provided Password 
+16:21:03.732 [main] INFO  stepDefinitions.steps - Clicked on Login button
+16:21:06.151 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:21:06.344 [main] INFO  stepDefinitions.steps - Clicked on Login 
+16:21:06.426 [main] INFO  stepDefinitions.steps - Provided Username 
+16:21:06.503 [main] INFO  stepDefinitions.steps - Provided Password 
+16:21:06.719 [main] INFO  stepDefinitions.steps - Clicked on Login button
+16:21:41.869 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:21:42.066 [main] INFO  stepDefinitions.steps - Clicked on Login 
+16:21:42.138 [main] INFO  stepDefinitions.steps - Provided Username 
+16:21:42.212 [main] INFO  stepDefinitions.steps - Provided Password 
+16:23:01.582 [main] INFO  stepDefinitions.steps - Clicked on Login button
+16:23:23.549 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:23:23.834 [main] INFO  stepDefinitions.steps - Clicked on Login 
+16:23:24.025 [main] INFO  stepDefinitions.steps - Provided Username 
+16:23:24.170 [main] INFO  stepDefinitions.steps - Provided Password 
+16:28:27.801 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:28:28.006 [main] INFO  stepDefinitions.steps - Clicked on Login 
+16:28:28.084 [main] INFO  stepDefinitions.steps - Provided Username 
+16:28:28.152 [main] INFO  stepDefinitions.steps - Provided Password 
+16:28:28.458 [main] INFO  stepDefinitions.steps - Clicked on Login button
+16:28:31.922 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:28:32.110 [main] INFO  stepDefinitions.steps - Clicked on Login 
+16:28:32.173 [main] INFO  stepDefinitions.steps - Provided Username 
+16:28:32.238 [main] INFO  stepDefinitions.steps - Provided Password 
+16:28:32.457 [main] INFO  stepDefinitions.steps - Clicked on Login button
+16:29:23.414 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:29:23.618 [main] INFO  stepDefinitions.steps - Clicked on Login 
+16:29:23.694 [main] INFO  stepDefinitions.steps - Provided Username 
+16:29:23.756 [main] INFO  stepDefinitions.steps - Provided Password 
+16:34:42.207 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:34:42.404 [main] INFO  stepDefinitions.steps - Clicked on Login 
+16:34:42.471 [main] INFO  stepDefinitions.steps - Provided Username 
+16:34:42.538 [main] INFO  stepDefinitions.steps - Provided Password 
+16:34:42.884 [main] INFO  stepDefinitions.steps - Clicked on Login button
+16:34:45.135 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:34:45.315 [main] INFO  stepDefinitions.steps - Clicked on Login 
+16:34:45.374 [main] INFO  stepDefinitions.steps - Provided Username 
+16:34:45.436 [main] INFO  stepDefinitions.steps - Provided Password 
+16:34:45.641 [main] INFO  stepDefinitions.steps - Clicked on Login button
+17:08:42.449 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+17:08:42.638 [main] INFO  stepDefinitions.steps - Clicked on Login 
+17:08:42.709 [main] INFO  stepDefinitions.steps - Provided Username 
+17:08:42.768 [main] INFO  stepDefinitions.steps - Provided Password 
+17:10:45.898 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+17:10:46.155 [main] INFO  stepDefinitions.steps - Clicked on Login 
+17:10:46.258 [main] INFO  stepDefinitions.steps - Provided Username 
+17:10:46.343 [main] INFO  stepDefinitions.steps - Provided Password 
+17:10:46.580 [main] INFO  stepDefinitions.steps - Clicked on Login button
+17:10:48.879 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+17:10:49.044 [main] INFO  stepDefinitions.steps - Clicked on Login 
+17:10:49.106 [main] INFO  stepDefinitions.steps - Provided Username 
+17:10:49.164 [main] INFO  stepDefinitions.steps - Provided Password 
+17:10:49.521 [main] INFO  stepDefinitions.steps - Clicked on Login button
+17:12:35.555 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+17:12:35.756 [main] INFO  stepDefinitions.steps - Clicked on Login 
+17:12:35.832 [main] INFO  stepDefinitions.steps - Provided Username 
+17:12:35.891 [main] INFO  stepDefinitions.steps - Provided Password 
+17:12:36.122 [main] INFO  stepDefinitions.steps - Clicked on Login button
+17:12:38.403 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+17:12:38.586 [main] INFO  stepDefinitions.steps - Clicked on Login 
+17:12:38.653 [main] INFO  stepDefinitions.steps - Provided Username 
+17:12:38.711 [main] INFO  stepDefinitions.steps - Provided Password 
+17:12:39.043 [main] INFO  stepDefinitions.steps - Clicked on Login button
+17:13:46.870 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+17:13:47.047 [main] INFO  stepDefinitions.steps - Clicked on Login 
+17:13:47.111 [main] INFO  stepDefinitions.steps - Provided Username 
+17:13:47.167 [main] INFO  stepDefinitions.steps - Provided Password 
+17:13:47.372 [main] INFO  stepDefinitions.steps - Clicked on Login button
+17:13:49.738 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+17:13:49.916 [main] INFO  stepDefinitions.steps - Clicked on Login 
+17:13:49.977 [main] INFO  stepDefinitions.steps - Provided Username 
+17:13:50.034 [main] INFO  stepDefinitions.steps - Provided Password 
+17:13:50.342 [main] INFO  stepDefinitions.steps - Clicked on Login button
+17:29:04.524 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+17:29:04.702 [main] INFO  stepDefinitions.steps - Clicked on Login 
+17:29:04.773 [main] INFO  stepDefinitions.steps - Provided Username 
+17:29:04.835 [main] INFO  stepDefinitions.steps - Provided Password 
+17:29:05.052 [main] INFO  stepDefinitions.steps - Clicked on Login button
+17:29:07.205 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+17:29:07.379 [main] INFO  stepDefinitions.steps - Clicked on Login 
+17:29:07.443 [main] INFO  stepDefinitions.steps - Provided Username 
+17:29:07.502 [main] INFO  stepDefinitions.steps - Provided Password 
+17:29:07.799 [main] INFO  stepDefinitions.steps - Clicked on Login button
+17:34:09.841 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+17:34:10.029 [main] INFO  stepDefinitions.steps - Clicked on Login 
+17:34:10.099 [main] INFO  stepDefinitions.steps - Provided Username 
+17:34:10.155 [main] INFO  stepDefinitions.steps - Provided Password 
+17:34:10.387 [main] INFO  stepDefinitions.steps - Clicked on Login button
+17:34:12.559 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+17:34:12.732 [main] INFO  stepDefinitions.steps - Clicked on Login 
+17:34:12.795 [main] INFO  stepDefinitions.steps - Provided Username 
+17:34:12.855 [main] INFO  stepDefinitions.steps - Provided Password 
+17:34:13.159 [main] INFO  stepDefinitions.steps - Clicked on Login button
+17:43:17.881 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+17:43:18.081 [main] INFO  stepDefinitions.steps - Clicked on Login 
+17:43:18.158 [main] INFO  stepDefinitions.steps - Provided Username 
+17:43:18.216 [main] INFO  stepDefinitions.steps - Provided Password 
+17:44:50.535 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+17:44:50.742 [main] INFO  stepDefinitions.steps - Clicked on Login 
+17:44:50.817 [main] INFO  stepDefinitions.steps - Provided Username 
+17:44:50.880 [main] INFO  stepDefinitions.steps - Provided Password 
+17:45:03.718 [main] INFO  stepDefinitions.steps - Clicked on Login button
+20:30:22.852 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+20:30:23.079 [main] INFO  stepDefinitions.steps - Clicked on Login 
+20:30:23.169 [main] INFO  stepDefinitions.steps - Provided Username 
+20:30:23.245 [main] INFO  stepDefinitions.steps - Provided Password 
+20:30:23.472 [main] INFO  stepDefinitions.steps - Clicked on Login button
+20:30:26.216 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+20:30:26.424 [main] INFO  stepDefinitions.steps - Clicked on Login 
+20:30:26.489 [main] INFO  stepDefinitions.steps - Provided Username 
+20:30:26.548 [main] INFO  stepDefinitions.steps - Provided Password 
+20:30:26.848 [main] INFO  stepDefinitions.steps - Clicked on Login button
+20:31:39.672 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+20:31:39.927 [main] INFO  stepDefinitions.steps - Clicked on Login 
+20:31:40.118 [main] INFO  stepDefinitions.steps - Provided Username 
+20:31:40.285 [main] INFO  stepDefinitions.steps - Provided Password 
+20:47:39.269 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+20:47:39.622 [main] INFO  stepDefinitions.steps - Clicked on Login 
+20:47:39.828 [main] INFO  stepDefinitions.steps - Provided Username 
+20:47:40.073 [main] INFO  stepDefinitions.steps - Provided Password 
+20:47:40.575 [main] INFO  stepDefinitions.steps - Clicked on Login button
+20:47:45.470 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+20:47:45.951 [main] INFO  stepDefinitions.steps - Clicked on Login 
+20:47:46.121 [main] INFO  stepDefinitions.steps - Provided Username 
+20:47:46.298 [main] INFO  stepDefinitions.steps - Provided Password 
+20:47:46.954 [main] INFO  stepDefinitions.steps - Clicked on Login button
+21:16:47.831 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+21:16:48.012 [main] INFO  stepDefinitions.steps - Clicked on Login 
+21:16:48.073 [main] INFO  stepDefinitions.steps - Provided Username 
+21:16:48.131 [main] INFO  stepDefinitions.steps - Provided Password 
+21:16:48.333 [main] INFO  stepDefinitions.steps - Clicked on Login button
+21:16:50.656 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+21:16:50.840 [main] INFO  stepDefinitions.steps - Clicked on Login 
+21:16:50.902 [main] INFO  stepDefinitions.steps - Provided Username 
+21:16:50.960 [main] INFO  stepDefinitions.steps - Provided Password 
+21:16:51.300 [main] INFO  stepDefinitions.steps - Clicked on Login button
+21:17:21.152 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+21:17:21.347 [main] INFO  stepDefinitions.steps - Clicked on Login 
+21:17:21.414 [main] INFO  stepDefinitions.steps - Provided Username 
+21:17:21.479 [main] INFO  stepDefinitions.steps - Provided Password 
+21:17:21.688 [main] INFO  stepDefinitions.steps - Clicked on Login button
+21:17:23.834 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+21:17:24.011 [main] INFO  stepDefinitions.steps - Clicked on Login 
+21:17:24.085 [main] INFO  stepDefinitions.steps - Provided Username 
+21:17:24.148 [main] INFO  stepDefinitions.steps - Provided Password 
+21:17:24.487 [main] INFO  stepDefinitions.steps - Clicked on Login button
+21:17:48.304 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+21:17:48.505 [main] INFO  stepDefinitions.steps - Clicked on Login 
+21:17:48.596 [main] INFO  stepDefinitions.steps - Provided Username 
+21:17:48.669 [main] INFO  stepDefinitions.steps - Provided Password 
+21:17:48.885 [main] INFO  stepDefinitions.steps - Clicked on Login button
+21:17:51.091 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+21:17:51.255 [main] INFO  stepDefinitions.steps - Clicked on Login 
+21:17:51.317 [main] INFO  stepDefinitions.steps - Provided Username 
+21:17:51.378 [main] INFO  stepDefinitions.steps - Provided Password 
+21:17:51.711 [main] INFO  stepDefinitions.steps - Clicked on Login button
+21:19:03.108 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+21:19:03.286 [main] INFO  stepDefinitions.steps - Clicked on Login 
+21:19:03.352 [main] INFO  stepDefinitions.steps - Provided Username 
+21:19:03.410 [main] INFO  stepDefinitions.steps - Provided Password 
+21:19:03.613 [main] INFO  stepDefinitions.steps - Clicked on Login button
+21:19:05.854 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+21:19:06.027 [main] INFO  stepDefinitions.steps - Clicked on Login 
+21:19:06.090 [main] INFO  stepDefinitions.steps - Provided Username 
+21:19:06.148 [main] INFO  stepDefinitions.steps - Provided Password 
+21:19:06.440 [main] INFO  stepDefinitions.steps - Clicked on Login button
+21:19:46.299 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+21:19:46.486 [main] INFO  stepDefinitions.steps - Clicked on Login 
+21:19:46.549 [main] INFO  stepDefinitions.steps - Provided Username 
+21:19:46.606 [main] INFO  stepDefinitions.steps - Provided Password 
+21:19:46.823 [main] INFO  stepDefinitions.steps - Clicked on Login button
+21:19:49.017 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+21:19:49.211 [main] INFO  stepDefinitions.steps - Clicked on Login 
+21:19:49.282 [main] INFO  stepDefinitions.steps - Provided Username 
+21:19:49.341 [main] INFO  stepDefinitions.steps - Provided Password 
+21:19:49.649 [main] INFO  stepDefinitions.steps - Clicked on Login button
+21:20:21.605 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+21:20:21.784 [main] INFO  stepDefinitions.steps - Clicked on Login 
+21:20:21.852 [main] INFO  stepDefinitions.steps - Provided Username 
+21:20:21.912 [main] INFO  stepDefinitions.steps - Provided Password 
+21:20:22.126 [main] INFO  stepDefinitions.steps - Clicked on Login button
+21:20:25.762 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+21:20:25.949 [main] INFO  stepDefinitions.steps - Clicked on Login 
+21:20:26.017 [main] INFO  stepDefinitions.steps - Provided Username 
+21:20:26.075 [main] INFO  stepDefinitions.steps - Provided Password 
+21:20:26.408 [main] INFO  stepDefinitions.steps - Clicked on Login button
+23:34:21.638 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:34:21.855 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:34:21.932 [main] INFO  stepDefinitions.steps - Provided Username 
+23:34:22.003 [main] INFO  stepDefinitions.steps - Provided Password 
+23:34:22.226 [main] INFO  stepDefinitions.steps - Clicked on Login button
+23:34:24.565 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:34:24.764 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:34:24.864 [main] INFO  stepDefinitions.steps - Provided Username 
+23:34:24.959 [main] INFO  stepDefinitions.steps - Provided Password 
+23:34:25.323 [main] INFO  stepDefinitions.steps - Clicked on Login button
+12:25:04.460 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:25:04.683 [main] INFO  stepDefinitions.steps - Clicked on Login 
+12:25:04.749 [main] INFO  stepDefinitions.steps - Provided Username 
+12:25:04.836 [main] INFO  stepDefinitions.steps - Provided Password 
+12:25:05.045 [main] INFO  stepDefinitions.steps - Clicked on Login button
+12:25:07.619 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:25:07.789 [main] INFO  stepDefinitions.steps - Clicked on Login 
+12:25:07.863 [main] INFO  stepDefinitions.steps - Provided Username 
+12:25:07.936 [main] INFO  stepDefinitions.steps - Provided Password 
+12:25:08.297 [main] INFO  stepDefinitions.steps - Clicked on Login button
+12:26:11.289 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:26:11.577 [main] INFO  stepDefinitions.steps - Clicked on Login 
+12:26:11.648 [main] INFO  stepDefinitions.steps - Provided Username 
+12:26:11.718 [main] INFO  stepDefinitions.steps - Provided Password 
+12:26:11.962 [main] INFO  stepDefinitions.steps - Clicked on Login button
+12:26:14.339 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:26:14.527 [main] INFO  stepDefinitions.steps - Clicked on Login 
+12:26:14.609 [main] INFO  stepDefinitions.steps - Provided Username 
+12:26:14.692 [main] INFO  stepDefinitions.steps - Provided Password 
+12:26:15.005 [main] INFO  stepDefinitions.steps - Clicked on Login button
+12:42:01.248 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:42:01.486 [main] INFO  stepDefinitions.steps - Clicked on Login 
+12:42:01.571 [main] INFO  stepDefinitions.steps - Provided Username 
+12:42:01.664 [main] INFO  stepDefinitions.steps - Provided Password 
+12:42:01.930 [main] INFO  stepDefinitions.steps - Clicked on Login button
+12:42:04.765 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+12:42:05.010 [main] INFO  stepDefinitions.steps - Clicked on Login 
+12:42:05.101 [main] INFO  stepDefinitions.steps - Provided Username 
+12:42:05.214 [main] INFO  stepDefinitions.steps - Provided Password 
+12:42:05.588 [main] INFO  stepDefinitions.steps - Clicked on Login button
